@@ -39,9 +39,12 @@
 
 ---
 
-## 🛠️ 環境建置與依賴套件
 
-請確保您的環境中已安裝 Python 3.8 或以上版本。您可以透過以下指令安裝所需的套件：
+## 📸 實驗成果與視覺化 (Experimental Results)
 
-```bash
+以下為本系統對實際道路場景的分割結果。我們將原始輸入、二值化遮罩與最終注水結果並排對比：
+
+
+
+![成果圖](https://github.com/user-attachments/assets/7ea6c9ac-7e48-4864-afca-86fd14bccdf1)
 pip install opencv-python numpy matplotlib
